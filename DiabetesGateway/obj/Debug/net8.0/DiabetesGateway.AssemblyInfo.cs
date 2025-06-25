@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiabetesGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5c38e9ebae38bb8fd9ecfc8909416880762016f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiabetesGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiabetesGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
