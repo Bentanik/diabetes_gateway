@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uLbrXVAa4oE=",
+  "dgSpecHash": "5hLr2w0ZKHg=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CapstoneProject\\Gateway\\DiabetesGateway\\DiabetesGateway\\DiabetesGateway.csproj",
+  "projectFilePath": "D:\\Projects\\CapstoneProject\\Gateway1\\diabetes_gateway\\DiabetesGateway\\DiabetesGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vietv\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.12\\microsoft.aspnetcore.authentication.jwtbearer.8.0.12.nupkg.sha512",
     "C:\\Users\\vietv\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.3.0\\microsoft.identitymodel.abstractions.8.3.0.nupkg.sha512",

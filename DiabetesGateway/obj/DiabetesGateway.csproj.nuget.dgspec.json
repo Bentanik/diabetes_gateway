@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CapstoneProject\\Gateway\\DiabetesGateway\\DiabetesGateway\\DiabetesGateway.csproj": {}
+    "D:\\Projects\\CapstoneProject\\Gateway1\\diabetes_gateway\\DiabetesGateway\\DiabetesGateway.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CapstoneProject\\Gateway\\DiabetesGateway\\DiabetesGateway\\DiabetesGateway.csproj": {
+    "D:\\Projects\\CapstoneProject\\Gateway1\\diabetes_gateway\\DiabetesGateway\\DiabetesGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CapstoneProject\\Gateway\\DiabetesGateway\\DiabetesGateway\\DiabetesGateway.csproj",
+        "projectUniqueName": "D:\\Projects\\CapstoneProject\\Gateway1\\diabetes_gateway\\DiabetesGateway\\DiabetesGateway.csproj",
         "projectName": "DiabetesGateway",
-        "projectPath": "D:\\Projects\\CapstoneProject\\Gateway\\DiabetesGateway\\DiabetesGateway\\DiabetesGateway.csproj",
+        "projectPath": "D:\\Projects\\CapstoneProject\\Gateway1\\diabetes_gateway\\DiabetesGateway\\DiabetesGateway.csproj",
         "packagesPath": "C:\\Users\\vietv\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CapstoneProject\\Gateway\\DiabetesGateway\\DiabetesGateway\\obj\\",
+        "outputPath": "D:\\Projects\\CapstoneProject\\Gateway1\\diabetes_gateway\\DiabetesGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

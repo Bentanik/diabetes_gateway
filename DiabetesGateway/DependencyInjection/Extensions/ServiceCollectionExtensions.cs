@@ -63,6 +63,16 @@ public static class ServiceCollectionExtensions
             .AddAuthSettingsConfiguration(builder.Configuration)
             .AddJwtAuthentication(builder.Configuration);
 
+        builder.Services.AddCors(options =>
+        {
+            options.AddPolicy("AllowAll", policy =>
+            {
+                policy.AllowAnyOrigin()
+                      .AllowAnyHeader()
+                      .AllowAnyMethod();
+            });
+        });
+
         builder.Services.AddReverseProxy()
             .LoadFromConfig(builder.Configuration.GetSection(ApiGatewayConstants.ReverseProxy));
     }
